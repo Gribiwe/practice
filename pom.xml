@@ -9,10 +9,6 @@
     <packaging>jar</packaging>
     <name>Gpaper</name>
 
-    <repositories>
-        <!-- jhipster-needle-maven-repository -->
-    </repositories>
-
     <pluginRepositories>
         <!-- jhipster-needle-maven-plugin-repository -->
     </pluginRepositories>
